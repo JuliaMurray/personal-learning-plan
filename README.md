@@ -1,4 +1,4 @@
-# 📚 [INSERT YOUR NAME] Learning Plan
+# 📚 [JuliaMurray] Learning Plan
 
 A 90 day learning plan to learn the basics of OOP, get a command of Full Stack Javascript, build clean UIs with React, explore the cutting edge, and practice skills you'll need to be productive team member like advanced git and TDD.
 
